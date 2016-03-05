@@ -13,7 +13,7 @@ instagram: myinstagram
 linkedin: in/sabid-hossain-2b377857
 youtube: c/SabidHossainbd
 spotify: myspotify
-github: sabid19
+github: sabidhossain
 email: sabidmail@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]

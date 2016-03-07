@@ -31,10 +31,6 @@ I like to feel the music, I like people. And, I like to laugh.</p>
 	<li>Git</li>
 	<li>MVC</li>
 	<li>ASP.Net</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
